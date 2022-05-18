@@ -12,7 +12,6 @@ No caso da Udemy, você consegue acompanhar os videos usando a própia legenda, 
 <img src="./images/1.1 - ruim.png" height="300">
 
 #### Exemplo ruim
-
 Aqui não existe outra alternativa para o usuário, apenas o video. Sem opções de legendas também
 
 ## Diretiva 1.2 - Meios de comunicação baseados no tempo
@@ -28,4 +27,29 @@ Ao abrir o youtube em um celular, alguns itens mudam de posição para que se ad
 <img src="./images/1.3 - ruim.jpg" height="400">>
 
 A página do login do siga ao abrir em um dispositivel móvel fica com os campos bem pequenos, sendo dificil de enxergar para alguns usuarios, precisando usar o zoom para entender melhor
+
+## Diretiva 1.4 - Distinguível
+#### Exemplo bom
+<img src="./images/1.4 - bom.png" height="400">
+No linkedin é possivel ler com facilidade e distinguir o que cada elemento é na tela
+
+#### Exemplo Ruim
+<img src="./images/1.4 - ruim.png" height="400">
+Neste exemplo de um site de leitura infantil, é complicado de fazer leitura dos titulos dos textos, por possuir uma cor parecida com a do fundo.
+
+# Princípio 2 - Operável
+
+## Diretiva 2.1 - Teclado Acessível
+
+#### Exemplo bom
+<img src="./images/2.1 - bom.gif" height="400">
+No navegador Opera existem diversos atalhos, porém o usuário pode a qualquer momento alterar ou desativar eles.
+
+#### Exemplo Ruim
+
+## Diretiva 2.2 - Tempo suficiente
+
+#### Exemplo bom
+
+#### Exemplo Ruim
 
