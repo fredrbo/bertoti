@@ -37,6 +37,10 @@ No linkedin é possivel ler com facilidade e distinguir o que cada elemento é n
 <img src="./images/1.4 - ruim.png" height="400">
 Neste exemplo de um site de leitura infantil, é complicado de fazer leitura dos titulos dos textos, por possuir uma cor parecida com a do fundo.
 
+### Exemplo Api
+<img src="./images/1.4 - api.gif" height="400">
+Na API foi implementando um fundo diferente no cadastro da conta, cada tipo de conta tem uma cor diferente. Para ajudar o digitador a reconhecer qual a conta que está sendo cadastrada no momento
+
 # Princípio 2 - Operável
 
 ## Diretiva 2.1 - Teclado Acessível
@@ -45,11 +49,15 @@ Neste exemplo de um site de leitura infantil, é complicado de fazer leitura dos
 <img src="./images/2.1 - bom.gif" height="400">
 No navegador Opera existem diversos atalhos, porém o usuário pode a qualquer momento alterar ou desativar eles.
 
-#### Exemplo Ruim
+<!-- #### Exemplo Ruim
 
-## Diretiva 2.2 - Tempo suficiente
+## Diretiva 2.2 - Tempo suficiente -->
 
-#### Exemplo bom
+# Princípio 3 - Compreensível
 
-#### Exemplo Ruim
+## Diretiva 3.1 - Legivel
 
+#### Exemplo API
+<img src="./images/3.1 - api.gif" height="400">
+Em alguns botões não existem texto explicando o que cada um faz, apenas icones simbolizando.
+Mas caso o usuário tenha duvida, ele pode aproximar o mouse que abrirá um pop-up informando a função do botão
